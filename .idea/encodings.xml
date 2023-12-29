@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/base/mod2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/mod2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/mod4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/mod4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/mod7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/mod7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod6/1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod6/1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod6/2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod6/2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod8/1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod8/2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/buns/mod8/3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox/mod6/src/main/java" charset="UTF-8" />
+  </component>
+</project>

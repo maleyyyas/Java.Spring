@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/base/mod2/pom.xml" />
+        <option value="$PROJECT_DIR$/base/mod4/pom.xml" />
+        <option value="$PROJECT_DIR$/base/mod7/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod1/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod2/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod3/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod4/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod5/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod6/1/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod6/2/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod7/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod8/1/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod8/2/pom.xml" />
+        <option value="$PROJECT_DIR$/buns/mod8/3/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox/mod1/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox/mod2/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox/mod3/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox/mod4/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox/mod5/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox/mod6/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="corretto-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
